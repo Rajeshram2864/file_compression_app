@@ -37,6 +37,7 @@ file_compression_app/
 ###1️⃣ Clone the repository
 
 git clone https://github.com/Rajeshram2864/file_compression_app.git
+
 cd file_compression_app
 
 

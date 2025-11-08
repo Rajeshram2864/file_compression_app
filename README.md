@@ -23,11 +23,17 @@ Supports two classic **lossless compression algorithms** — **Huffman Coding** 
 file_compression_app/
 │
 ├── main.py # GUI entry point
+
 ├── compressor.py # Manager class for Huffman and LZW
+
 ├── huffman.py # Huffman algorithm
+
 ├── lzw.py # LZW algorithm
+
 ├── utils.py # Helper classes for bit I/O
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 

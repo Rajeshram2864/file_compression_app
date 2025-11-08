@@ -34,14 +34,14 @@ file_compression_app/
 ---
 
 ## ⚙️ Installation & Setup
-###1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 
 git clone https://github.com/Rajeshram2864/file_compression_app.git
 
 cd file_compression_app
 
 
-###2️⃣ Create a virtual environment
+### 2️⃣ Create a virtual environment
 🪟 On Windows:
 python -m venv venv
 venv\Scripts\activate

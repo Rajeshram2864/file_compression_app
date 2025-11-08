@@ -20,22 +20,21 @@ Supports two classic **lossless compression algorithms** — **Huffman Coding** 
 
 ## 🏗️ Project Structure
 
-file_compression_app/
+file_compression_app
 │
-
+|
 ├── main.py # GUI entry point
 
 ├── compressor.py # Manager class for Huffman and LZW
-
+|
 ├── huffman.py # Huffman compression & decompression algorithm
-
+|
 ├── lzw.py # LZW (Lempel–Ziv–Welch) compression & decompression algorithm
-
+|
 ├── utils.py # Helper classes for bit-level I/O and file utilities
-
+|
 ├── requirements.txt # Project dependencies
 
-└── README.md # Project documentation
 
 
 ---

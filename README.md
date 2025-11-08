@@ -21,7 +21,7 @@ Supports two classic **lossless compression algorithms** — **Huffman Coding** 
 ## 🏗️ Project Structure
 
 file_compression_app
-│
+/
 
 ├── main.py # GUI entry point
 
